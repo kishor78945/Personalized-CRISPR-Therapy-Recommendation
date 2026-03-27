@@ -156,12 +156,6 @@ Creates a synthetic `test_patient_data.csv` with the correct 500-feature schema 
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - Dataset: [Breast Cancer Gene Expression Profiles (CuMiDa)](https://www.kaggle.com/datasets/brunogrisci/breast-cancer-gene-expression-cumida) — Grisci et al.
